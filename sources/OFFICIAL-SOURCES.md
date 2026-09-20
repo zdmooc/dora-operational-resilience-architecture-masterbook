@@ -39,3 +39,10 @@ https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-it
 - Prefer ESA pages for RTS/ITS status.
 - Separate in-force rules from draft/final-but-not-yet-applicable material.
 - Never infer compliance from this masterbook.
+
+
+### Incident Reporting Operational Instructions — 16 Sep 2026
+https://eba.europa.eu/sites/default/files/2026-09/3039fc09-0b6e-4468-99bb-e27ae88bcf85/DORA%20IR%20-%20Operational%20Instructions_for%20publication%20%281%29.pdf
+
+### Major Incident Reporting overview / EBA
+https://www.eba.europa.eu/publications-and-media/press-releases/esas-publish-first-report-dora-major-ict-related-incidents
