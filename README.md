@@ -138,3 +138,35 @@ DESIGNED ≠ IMPLEMENTED ≠ TESTED ≠ DEPLOYED ≠ RUNTIME VALIDATED ≠ COMPL
 Un POC ne prouve jamais la conformité réglementaire d'une institution.
 
 A POC never proves regulatory compliance for a real institution.
+
+
+## Navigation complète / Full navigation
+
+- [I0 — Methodology](00-methodology/README.md)
+- [I1 — DORA Fundamentals](01-fundamentals/README.md)
+- [I2 — Governance & ICT Risk](02-governance-ict-risk/README.md)
+- [I3 — Critical Services & Dependencies](03-critical-services-dependencies/README.md)
+- [I4 — BIA / RTO / RPO](04-bia-rto-rpo/README.md)
+- [I5 — Resilience Architecture](05-resilience-architecture/README.md)
+- [I6 — Incident Management](06-incident-management/README.md)
+- [I7 — Resilience Testing](07-testing/README.md)
+- [I8 — TLPT / TIBER-EU](08-tlpt-tiber-eu/README.md)
+- [I9 — ICT Third-Party Risk](09-third-party-risk/README.md)
+- [I10 — Contracts / Exit](10-contracts-exit/README.md)
+- [I11 — Register of Information](11-register-of-information/README.md)
+- [I12 — Enterprise Architecture / HOPEX](12-enterprise-architecture-hopex/README.md)
+- [I13 — MayaBank Labs](13-mayabank-labs/README.md)
+- [I14 — Mastery / Interview](14-mastery-interview/README.md)
+- [100 questions corrigées / answered](14-mastery-interview/100-QUESTIONS-ANSWERED.md)
+- [Article → Architecture Map](compliance/ARTICLE-TO-ARCHITECTURE-MAP.md)
+- [Evidence Matrix](compliance/EVIDENCE-MATRIX.md)
+- [Mission Playbook](mission/MISSION-PLAYBOOK.md)
+- [Templates](templates/)
+- [Labs](labs/)
+- [Official Sources](sources/OFFICIAL-SOURCES.md)
+- [Glossary](GLOSSARY.md)
+
+
+## État / Status — 2026-09-20
+
+**I0→I14 structurées / structured.** Le dépôt contient le cours bilingue, les artefacts de mission, 9 labs détaillés, 100 questions corrigées, un mapping DORA→architecture et un contrôle CI de structure. Les prochaines améliorations ne doivent ajouter que des changements réglementaires officiels, des labs runtime réellement exécutés ou des besoins de mission.
