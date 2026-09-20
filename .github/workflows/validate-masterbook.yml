@@ -1,0 +1,12 @@
+name: validate-masterbook
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate required masterbook structure
+        run: bash tests/check-masterbook.sh
